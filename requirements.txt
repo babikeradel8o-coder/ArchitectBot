@@ -1,4 +1,3 @@
 google-generativeai
 python-telegram-bot
-matplotlib
 pillow
